@@ -1,0 +1,24 @@
+{
+  "name": "truemoneywallet-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrKitt/TrueMoneyWallet-Webhook-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jrKitt/TrueMoneyWallet-Webhook-js/issues"
+  },
+  "homepage": "https://github.com/jrKitt/TrueMoneyWallet-Webhook-js#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
